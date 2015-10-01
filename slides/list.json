@@ -36,5 +36,14 @@
         }
     ],
     "quiz.md",
-    "code-of-conduct.md"
+    "speakers-bar.md",
+    "lanyards.md",
+    "twitter.md",
+    "code-of-conduct.md",
+    {
+        "filename": "thanks-enjoy.md",
+        "attr": {
+            "id": "thanks"
+        }
+    }
 ]

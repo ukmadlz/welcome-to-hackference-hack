@@ -6,7 +6,8 @@ body {
 .reveal section img {
       background: none;
 }
-section#welcome h1 {
+section#welcome h1,
+section#thanks h1 {
   text-transform: none;
   font-family: 'Pacifico', cursive !important;
 }
