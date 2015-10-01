@@ -15,3 +15,11 @@ section#welcome img {
   background: none;
   box-shadow: none;
 }
+
+section#platinum img,
+section#gold img,
+section#silver img,
+section#bronze img {
+  background: #FFF;
+  padding: 1em;
+}
