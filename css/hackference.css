@@ -3,7 +3,9 @@
 body {
   background: rgb(2, 115, 148);
 }
-
+.reveal section img {
+      background: none;
+}
 section#welcome h1 {
   text-transform: none;
   font-family: 'Pacifico', cursive !important;

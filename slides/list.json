@@ -7,5 +7,10 @@
     },
     "thank-you-for-coming.md",
     "our-team.md",
-    "volunteers.md"
+    "volunteers.md",
+    ["sponsors.md",
+    "platinum.md",
+    "gold.md",
+    "silver.md",
+    "bronze.md"]
 ]
