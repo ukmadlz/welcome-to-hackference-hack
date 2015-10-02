@@ -1,0 +1,5 @@
+##  WiFi
+
+thestudio
+
+Password: customerfirst
