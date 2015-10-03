@@ -1,0 +1,13 @@
+{
+  "generator-cds-talk": {
+    "presentationTitle": "Welcome to Hackference",
+    "presentationSubTitle": "",
+    "packageVersion": "0.0.1",
+    "revealLayout": "index",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "welcome-to-hackference"
+  }
+}

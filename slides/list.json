@@ -1,0 +1,54 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "id": "welcome"
+        }
+    },
+    {
+        "filename": "welcome-to-the-hack.md",
+        "attr": {
+            "id": "welcome"
+        }
+    },
+    "thank-you-for-coming.md",
+    "our-team.md",
+    "volunteers.md",
+    [
+        "sponsors.md",
+        {
+            "filename": "platinum.md",
+            "attr": {
+                "id": "platinum"
+            }
+        },
+        {
+            "filename": "gold.md",
+            "attr": {
+                "id": "gold"
+            }
+        },
+        {
+            "filename": "silver.md",
+            "attr": {
+                "id": "silver"
+            }
+        },
+        {
+            "filename": "bronze.md",
+            "attr": {
+                "id": "bronze"
+            }
+        }
+    ],
+    "lanyards.md",
+    "twitter.md",
+    "wifi.md",
+    "code-of-conduct.md",
+    {
+        "filename": "thanks-enjoy.md",
+        "attr": {
+            "id": "thanks"
+        }
+    }
+]
