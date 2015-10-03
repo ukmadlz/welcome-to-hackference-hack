@@ -1,5 +1,5 @@
 ##  WiFi
 
-thestudio
+SSID: Impact Hub Birmingham
 
-Password: customerfirst
+Key: hack0310

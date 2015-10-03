@@ -5,7 +5,12 @@
             "id": "welcome"
         }
     },
-    "wifi.md",
+    {
+        "filename": "welcome-to-the-hack.md",
+        "attr": {
+            "id": "welcome"
+        }
+    },
     "thank-you-for-coming.md",
     "our-team.md",
     "volunteers.md",
@@ -36,11 +41,9 @@
             }
         }
     ],
-    "quiz.md",
-    "speakers-bar.md",
     "lanyards.md",
     "twitter.md",
-    "afterparty.md",
+    "wifi.md",
     "code-of-conduct.md",
     {
         "filename": "thanks-enjoy.md",
